@@ -6,7 +6,7 @@ I play music through live coding using my library, [Kairos](https://github.com/L
 
 My handle is **leofltt** everywhere on the web, but you will most likely find me on [Mastodon](https://merveilles.town/@leofltt), [Twitter](https://twitter.com/leofltt) or [Instagram](https://www.instagram.com/leofltt/).
 
-Otherwise you can reach out to me at my [email address](mailto:flttleonardo@gmail.com) or through my [website](https://www.leonardofoletto.com/).
+Otherwise you can reach out to me via my [email address](mailto:flttleonardo@gmail.com) or through my [website](https://www.leonardofoletto.com/).
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leofltt&show_icons=true&theme=dracula)
 

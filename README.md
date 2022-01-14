@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leofltt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leofltt&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leofltt&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leofltt&theme=midnight-purple)
 
 <!--
 **Leofltt/Leofltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

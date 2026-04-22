@@ -4,9 +4,11 @@ My name is Leonardo Foletto (he/him), I'm passionate about audio technology and 
 
 I play music through live coding using my library, [Kairos](https://github.com/Leofltt/Kairos), and spend my days playing around in the realm of audio software development (be it audio plugins, DAWs or interactive performance and installation tools). 
 
+Currently working on a groovebox for Nintendo 3DS, a performance oriented Rust audio engine / synthesizer cli for live coding and experimenting with applied AI for audio and speech for creative application (for example neural network bending).
+
 My handle is **leofltt** everywhere on the web, but you will most likely find me on [Mastodon](https://merveilles.town/@leofltt) or [Instagram](https://www.instagram.com/leofltt/).
 
-Otherwise you can reach out to me via my [email address](mailto:flttleonardo@gmail.com) or through my [website](https://www.leonardofoletto.com/).
+Otherwise you can reach out to me via my [email address](mailto:flttleonardo@gmail.com) or through my [website](https://www.leofltt.com/).
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leofltt&show_icons=true&theme=dracula)
 
